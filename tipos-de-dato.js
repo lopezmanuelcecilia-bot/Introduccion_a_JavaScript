@@ -1,0 +1,9 @@
+console.log(typeof 42);           // Imprime: number
+console.log(typeof 'Veinticinco'); // Imprime: string
+console.log(typeof -666);          // Imprime: number
+console.log(typeof true);          // Imprime: boolean
+console.log(typeof 0);             // Imprime: number
+console.log(typeof '');            // Imprime: string
+console.log(typeof null);          // Imprime: object
+console.log(typeof undefined);     // Imprime: undefined
+console.log(typeof FALSE);         // Imprime: undefined
